@@ -3,7 +3,8 @@
 
 def demo():
     """Define API."""
-    print("Hello, World!")
+    name = "Corey"
+    print("Hello, " + name + "!")
 
 
 if __name__ == "__main__":
