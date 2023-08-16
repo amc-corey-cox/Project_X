@@ -18,7 +18,8 @@ logger = logging.getLogger(__name__)
 @click.option("-q", "--quiet")
 @click.version_option(__version__)
 def main(verbose: int, quiet: bool):
-    """CLI for Project_X.
+    """
+    CLI for Project_X.
 
     :param verbose: Verbosity while running.
     :param quiet: Boolean to be quiet or verbose.
