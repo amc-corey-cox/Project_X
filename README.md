@@ -1,6 +1,6 @@
 # Project_X
 
-This is the project description.
+This is the project description. This repository is now archived. It was used for testing the cookie-cutter and now I'm using it to test archiving repos.
 
 # Acknowledgements
 
